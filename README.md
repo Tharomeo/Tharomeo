@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=180&section=header&text=Thais%20Romeo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20%7C%20Automação%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=180&section=header&text=Thais%20Romeo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20%7C%20Automacao%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://tha-romeo.vercel.app)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://tha-romeo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-romeo-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharomeo)
 ![Visitors](https://komarev.com/ghpvc/?username=Tharomeo&color=58a6ff&style=for-the-badge&label=Visitantes)
 
 </div>
@@ -22,11 +25,11 @@ Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. G
 
 **Automações & IA**
 
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhIMTZ2OHoiLz48L3N2Zz4=&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Desenvolvimento**
 
@@ -38,8 +41,8 @@ Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. G
 **Cloud & Ferramentas**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -66,8 +69,14 @@ Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. G
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tharomeo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Tharomeo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
