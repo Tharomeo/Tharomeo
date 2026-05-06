@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=180&section=header&text=Thais%20Romeo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Automation%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6c2eb9&height=180&section=header&text=Thais%20Romeo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Automation%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -69,15 +69,16 @@ Developer focused on **automation, applied AI and web development**. I like buil
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=tex" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c2eb9&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=6c2eb9&fire=6c2eb9&currStreakLabel=6c2eb9" />
 
 </div>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c2eb9,100:0d1117&height=100&section=footer" />
 </div>
