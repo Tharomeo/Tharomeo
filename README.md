@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-╔════════════════════════════════════════╗
-║   Olá! Eu sou a Thais Romeo 👩‍💻        ║
-╚════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=180&section=header&text=Thais%20Romeo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20%7C%20Automação%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
 
-**Estudante de Ciência da Computação · Estagiária de TI · Construtora de coisas úteis**
-
-📍 Indaiatuba, SP, Brasil &nbsp;|&nbsp; 🎓 Unimetrocamp Wyden — formatura em 2028
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge)](https://tha-romeo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://tha-romeo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-romeo-developer)
+![Visitors](https://komarev.com/ghpvc/?username=Tharomeo&color=58a6ff&style=for-the-badge&label=Visitantes)
 
 </div>
 
@@ -19,20 +12,21 @@
 
 ### 🧠 Sobre mim
 
-Sou desenvolvedora em formação com foco em **automação, IA aplicada e desenvolvimento web**. Atualmente trabalho como **Estagiária de TI na Itease**, onde atuo de forma bastante autônoma em projetos de automação e integração de sistemas.
+Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. Gosto de construir ferramentas que resolvem problemas reais — do zero, com autonomia.
 
-Gosto de construir ferramentas que resolvem problemas reais — do zero, com autonomia.
+📍 Indaiatuba, SP, Brasil &nbsp;|&nbsp; 🌐 PT-BR & EN
 
 ---
 
 ### ⚡ Stack
 
-**Automação & Integrações**
+**Automações & IA**
 
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 **Desenvolvimento**
 
@@ -72,16 +66,13 @@ Gosto de construir ferramentas que resolvem problemas reais — do zero, com aut
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharomeo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tharomeo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
 ---
 
 <div align="center">
-
-*"Construindo uma linha de código por vez."* ✨
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 </div>
