@@ -78,9 +78,6 @@ Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. G
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 </div>
