@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://tha-romeo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-romeo-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharomeo)
-![Visitors](https://komarev.com/ghpvc/?username=Tharomeo&color=58a6ff&style=for-the-badge&label=Visitors)
 
 </div>
 
@@ -70,14 +69,12 @@ Developer focused on **automation, applied AI and web development**. I like buil
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c2eb9&text_color=c9d1d9&langs_count=6" />
+&nbsp;
+<img height="165em" src="https://streak-stats.demolab.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=6c2eb9&fire=6c2eb9&currStreakLabel=6c2eb9" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharomeo&theme=tokyonight&hide_border=true&background=0d1117&ring=6c2eb9&fire=6c2eb9&currStreakLabel=6c2eb9" />
-
-</div>
+---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c2eb9,100:0d1117&height=100&section=footer" />
