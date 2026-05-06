@@ -17,7 +17,7 @@
 
 Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. Gosto de construir ferramentas que resolvem problemas reais — do zero, com autonomia.
 
-📍 Indaiatuba, SP, Brasil &nbsp;|&nbsp; 🌐 PT-BR & EN
+📍 SP, Brasil &nbsp;|&nbsp; 🌐 PT-BR & EN
 
 ---
 
@@ -69,7 +69,6 @@ Desenvolvedora com foco em **automação, IA aplicada e desenvolvimento web**. G
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharomeo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharomeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 
 </div>
