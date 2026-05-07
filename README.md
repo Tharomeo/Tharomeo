@@ -74,8 +74,6 @@ Developer focused on **automation, applied AI and web development**. I like buil
 
 </div>
 
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c2eb9,100:0d1117&height=100&section=footer" />
 </div>
